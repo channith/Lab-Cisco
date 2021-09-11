@@ -16,3 +16,8 @@
 ## Aug/19/2021
 
 - [Etherchannel Cisco & Mikrotik](portchannel-cisco.md)
+
+## Sep/11/2021
+
+- [EVE terminal for telnet](securecrt-for-eve-ng.pdf)
+- [BGP Route Aggregation](BGP-Route-Aggregation.md)
